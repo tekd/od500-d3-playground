@@ -26,5 +26,8 @@
     "md5": "^2.1.0",
     "minimist": "^1.2.0",
     "vinyl": "^1.1.1"
+  },
+  "devDependencies": {
+    "gulp-csv2json": "^0.2.5"
   }
 }
