@@ -1,5 +1,6 @@
-{% extends '_base.html' %}
-{% block main %}
+<!DOCTYPE html>
+<meta charset="utf-8">
+
 <div class="b-top-section">
   <h1>Zoomable Sunburst Visualization</h1>
 </div>
@@ -25,7 +26,6 @@ path {
 }
 
 </style>
-
 <body>
 <form>
   <label><input type="radio" name="mode" value="size"> Size</label>
@@ -62,10 +62,13 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, y(d.y)); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
+///
+var data = 
+
 // Keep track of the node that is currently being displayed as the root.
 var node;
 
-d3.json("flare.json", function(error, root) {
+d3.json("/source/data/flare.json", function(error, root) {
   node = root;
   var path = svg.datum(root).selectAll("path")
       .data(partition.nodes)
@@ -138,5 +141,4 @@ function arcTweenZoom(d) {
 }
 
 </script>
-
-{% endblock %}
+</html>
