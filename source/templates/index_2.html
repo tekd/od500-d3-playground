@@ -71,7 +71,6 @@ var node;
 
 d3.json("js/datax.json", function(error, root) {
   node = root;
-  console.log (partition.nodes);
   var path = svg.datum(root).selectAll("path")
   .data(partition.nodes)
   .enter().append("path")
