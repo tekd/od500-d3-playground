@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gulp Static Boilerplate</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon" />
+    <!-- Pulls our Typekit Fonts -->
+    <script src="//use.typekit.net/zez3buj.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
+    <!-- Pulls the material design icon font -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Pulls Slick CSS for sliders -->
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
+
+    <!-- library/styleguide dist css -->
+    <link rel="stylesheet" href="css/lib/govlab-styleguide.css">
+
+    <!-- Pulls the site-specific styles -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Add fontawesome for social media icons -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+
+</head>
+<body id="">
+
+<header class="b-top-nav">
+
+    <div class="e-nav-group m-left">
+        <span class="e-nav-item js-nav-trigger e-nav-trigger">
+            <i class="material-icons">menu</i>
+        </span>
+    </div>
+
+    <div class="e-nav-group m-right e-social-media">
+        <!-- Still questioning the relevance of this -->
+        <a href="https://twitter.com/TheGovLab" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-twitter"></i></a>
+        <a href="https://www.youtube.com/user/TheGovLab" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-youtube-play"></i></a>
+    </div>
+
+    <a class="e-logo" href="./"><img src="./img/govlab-logo-white.png" alt=""></a>
+
+</header>
+
+    <!-- Main Menu (Off Canvas) -->
+    <nav class="b-main-menu">
+        <a href="./">Home</a>
+        <a href="./data-overview.html">Data Overview</a>
+        <a href="./index_2.html">OD500 Zoomable Starburst</a>
+        <a href="./index_3.html">Index 3</a>
+
+    </nav>
+
+    <main role="main">
+        
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<div class="b-top-section">
+  <h1>Zoomable Sunburst Visualization</h1>
+</div>
+
+<style>
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 960px;
+}
+
+form {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+path {
+  stroke: #fff;
+  fill-rule: evenodd;
+}
+
+</style>
+<body>
+  <form>
+    <label><input type="radio" name="mode" value="size"> Size</label>
+    <label><input type="radio" name="mode" value="count" checked> Count</label>
+  </form>
+
+  <script src="//d3js.org/d3.v3.min.js"></script>
+
+  <script>
+
+  var width = 960,
+  height = 700,
+  radius = Math.min(width, height) / 2;
+
+  var x = d3.scale.linear()
+  .range([0, 2 * Math.PI]);
+
+  var y = d3.scale.sqrt()
+  .range([0, radius]);
+
+  var color = d3.scale.category20c();
+
+  var svg = d3.select("body").append("svg")
+  .attr("width", width)
+  .attr("height", height)
+  .append("g")
+  .attr("transform", "translate(" + width / 2 + "," + (height / 2 + 10) + ")");
+
+  var partition = d3.layout.partition()
+  .sort(null)
+  .value(function(d) { return 1; });
+
+  var arc = d3.svg.arc()
+  .startAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x))); })
+  .endAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))); })
+  .innerRadius(function(d) { return Math.max(0, y(d.y)); })
+  .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
+
+///
+
+// Keep track of the node that is currently being displayed as the root.
+var node;
+
+d3.json("js/datax.json", function(error, root) {
+  var g = svg.selectAll("g")
+      .data(partition.nodes(root))
+    .enter().append("g");
+
+  var path = g.append("path")
+    .attr("d", arc)
+    .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
+    .on("click", click);
+
+  var text = g.append("text")
+    .attr("transform", function(d) { return "rotate(" + computeTextRotation(d) + ")"; })
+    .attr("x", function(d) { return y(d.y); })
+    .attr("dx", "6") // margin
+    .attr("dy", ".35em") // vertical-align
+    .text(function(d) { return d.name; });
+
+
+  // node = root;
+  //
+  // var path = svg.datum(root).selectAll("path")
+  // .data(partition.nodes)
+  // .enter().append("path")
+  // .attr("d", arc)
+  // .style("fill", function(d) {
+  //  return color((d.children ? d : d.parent).name);
+  // })
+  // .on("click", click)
+  // .each(stash);
+
+
+
+
+
+
+  d3.selectAll("input").on("change", function change() {
+    var value = this.value === "count"
+    ? function() { return 1; }
+    : function(d) { return d.size; };
+
+    path
+    .data(partition.value(value).nodes)
+    .transition()
+    .duration(1000)
+    .attrTween("d", arcTweenData);
+  });
+
+  function click(d) {
+    node = d;
+    path.transition()
+    .duration(1000)
+    .attrTween("d", arcTweenZoom(d));
+  }
+});
+
+d3.select(self.frameElement).style("height", height + "px");
+
+// Setup for switching data: stash the old values for transition.
+function stash(d) {
+  d.x0 = d.x;
+  d.dx0 = d.dx;
+}
+
+// When switching data: interpolate the arcs in data space.
+function arcTweenData(a, i) {
+  var oi = d3.interpolate({x: a.x0, dx: a.dx0}, a);
+  function tween(t) {
+    var b = oi(t);
+    a.x0 = b.x;
+    a.dx0 = b.dx;
+    return arc(b);
+  }
+  if (i == 0) {
+   // If we are on the first arc, adjust the x domain to match the root node
+   // at the current zoom level. (We only need to do this once.)
+   var xd = d3.interpolate(x.domain(), [node.x, node.x + node.dx]);
+   return function(t) {
+    x.domain(xd(t));
+    return tween(t);
+  };
+} else {
+  return tween;
+}
+}
+
+// When zooming: interpolate the scales.
+function arcTweenZoom(d) {
+  var xd = d3.interpolate(x.domain(), [d.x, d.x + d.dx]),
+  yd = d3.interpolate(y.domain(), [d.y, 1]),
+  yr = d3.interpolate(y.range(), [d.y ? 20 : 0, radius]);
+  return function(d, i) {
+    return i
+    ? function(t) { return arc(d); }
+    : function(t) { x.domain(xd(t)); y.domain(yd(t)).range(yr(t)); return arc(d); };
+  };
+}
+
+
+</script>
+</body>
+</html>
+
+
+    </main>
+
+    <footer class='b-footer'>
+        <div class="row">
+            <!-- <div class="large-4 column">
+                <h3>Footer Info</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde dignissimos aperiam odit sed, suscipit voluptates pariatur enim rerum ipsa iusto, quis, veniam dolores quas nihil aut accusamus ea. Consequuntur, voluptatum.</p>
+            </div>
+            <div class="medium-4 column">
+                <h3>Footer Info</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde dignissimos aperiam odit sed, suscipit voluptates pariatur enim rerum ipsa iusto, quis, veniam dolores quas nihil aut accusamus ea. Consequuntur, voluptatum.</p>
+            </div>
+            <div class="medium-4 column">
+                <h3>Footer Info</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde dignissimos aperiam odit sed, suscipit voluptates pariatur enim rerum ipsa iusto, quis, veniam dolores quas nihil aut accusamus ea. Consequuntur, voluptatum.</p>
+            </div> -->
+        </div>
+    </footer>
+
+    <div class="b-copyright">
+        <div class="row">
+            <div class="large-10 large-centered columns">
+                <a class="e-cc-badge" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+                This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> <br> <a href="#">Copyright Infringement Information</a>.
+            </div>
+        </div>
+    </div>
+
+<div id="overlay"></div>
+
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script>
+<script src="js/lib/scripts.js"></script>
+<!-- D3 CDN -->
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+
+
+
+</body>
+</html>
