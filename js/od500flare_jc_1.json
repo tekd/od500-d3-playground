@@ -1,0 +1,5947 @@
+
+
+"name": "flare",
+ "children": [
+    {
+    {
+     "name": "Department of Agriculture",
+     "children": [
+      {
+       "name": "render",
+       "children": [
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 50,
+           "used_by": "Enigma.io"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10,
+           "used_by": "YourMapper"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 500,
+           "used_by": "Trulia"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 200,
+           "used_by": "FindTheBest.com"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 50,
+           "used_by": "Mapbox"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10,
+           "used_by": "Locavore"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10,
+           "used_by": "Mercaris"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 200,
+           "used_by": "FindTheBest.com"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 200,
+           "used_by": "Barchart"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 200,
+           "used_by": "FindTheBest.com"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 200,
+           "used_by": "FindTheBest.com"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10,
+           "used_by": "Mercaris"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 50,
+           "used_by": "FarmLogs"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10001,
+           "used_by": "Weight Watchers"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10,
+           "used_by": "Nautilytics"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 200,
+           "used_by": "FindTheBest.com"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 200,
+           "used_by": "Barchart"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 200,
+           "used_by": "Climate Corporation"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 50,
+           "used_by": "Azavea"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10,
+           "used_by": "Jurispect"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 50,
+           "used_by": "LoseIt.com"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10,
+           "used_by": "WeMakeItSafer"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10,
+           "used_by": "Food+Tech Connect"
+         },
+         {
+           "children": [],
+           "name": "Department of Agriculture",
+           "size": 10001,
+           "used_by": "BlackRock"
+         }
+
+     ]
+    },
+  ],
+},
+
+
+
+
+    {
+     "name": "Department of Commerce",
+     "children": [
+      {
+       "name": "distortion",
+       "children": [
+         {
+           "children": [],
+           "size": 200,
+           "name": "Cloudmade"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Vizzuality"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Whitby Group"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Qado Energy, Inc."
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "IFI CLAIMS Patent Services"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "IFI CLAIMS Patent Services"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "IFI CLAIMS Patent Services"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "IFI CLAIMS Patent Services"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "IFI CLAIMS Patent Services"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "IFI CLAIMS Patent Services"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Investormill"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Remi"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Graematter, Inc."
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Bridgewater"
+         },
+         {
+           "children": [],
+           "size": 10000,
+           "name": "Factset"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Thinknum"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Way Better Patents"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Think Computer Corporation"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Think Computer Corporation"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Think Computer Corporation"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Think Computer Corporation"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "karmadata"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Think Computer Corporation"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "karmadata"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "CrowdANALYTIX"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Chemical Abstracts Service"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "IFI CLAIMS Patent Services"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Computer Packages Inc"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Innography"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Collective IP"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Docket Alarm, Inc."
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Patently-O"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Innography"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Stormpulse"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Code-N"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Climate Corporation"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Esri"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Lucid"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Whitby Group"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Trulia"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Azavea"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Liquid Robotics"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Trulia"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Locavore"
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "Kaiser Permanante"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Rand McNally"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Redfin"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Marinexplore, Inc."
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Marinexplore, Inc."
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Marinexplore, Inc."
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Marinexplore, Inc."
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Marinexplore, Inc."
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Marinexplore, Inc."
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Marinexplore, Inc."
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Marinexplore, Inc."
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "RedLaser"
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "Farmers"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Foursquare"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Inrix Traffic"
+         },
+         {
+           "children": [],
+           "size": 10000,
+           "name": "Garmin"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "CrowdANALYTIX"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Cloudmade"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "iRecycle"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "MapQuest"
+         },
+         {
+           "children": [],
+           "size": 10000,
+           "name": "HERE"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Weather Channel"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "NextBus"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Weather Underground"
+         },
+         {
+           "children": [],
+           "size": "NA",
+           "name": "EarthObserver App"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Geofeedia"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Noesis"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Uber"
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "OnStar"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Urban Airship"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Loqate, Inc."
+         },
+         {
+           "children": [],
+           "size": 10000,
+           "name": "Google Maps"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Boundless"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "indoo.rs"
+         },
+         {
+           "children": [],
+           "size": 1000,
+           "name": "Telenav"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Navico"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "SpaceCurve"
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "IBM"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Solar Census"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "PYA Analytics"
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "Harris Corporation"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Stormpulse"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "WaterSmart Software"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "The Schork Report"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "FarmLogs"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Climate Corporation"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "AccuWeather"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "AutoGrid Systems"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "First Fuel Software"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Earth Networks"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Azavea"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "FlightView"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Rand McNally"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "PlanetEcosystems"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "WaterSmart Software"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Smart Utility Systems"
+         },
+         {
+           "children": [],
+           "size": 1000,
+           "name": "Telenav"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "AreaVibes Inc."
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Noesis"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Weather Decision Technologies"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Alarm.com"
+         },
+         {
+           "children": [],
+           "size": 10000,
+           "name": "Google Maps"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Overture Technologies"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Redfin"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Abt Associates"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Appallicious"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Azavea"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Earth Networks"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Civinomics"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Qado Energy, Inc."
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Credit Sesame"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Credit Sesame"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Esri"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Vizzuality"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "HelloWallet"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Pave"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "PolicyMap"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Whitby Group"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Whitby Group"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Development Seed"
+         },
+         {
+           "children": [],
+           "size": 10000,
+           "name": "Allied Van Lines"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Graebel Van Lines"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "American Red Ball Movers"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "PolicyMap"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Azavea"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Arpin Van Lines"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "iRecycle"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "SmartAsset"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "National Van Lines"
+         },
+         {
+           "children": [],
+           "size": 1000,
+           "name": "North American Van Lines"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Way Better Patents"
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "Progressive Insurance Group"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Stevens Worldwide Van Lines"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "United Mayflower"
+         },
+         {
+           "children": [],
+           "size": 1000,
+           "name": "ZocDoc"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "IVES Group Inc"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Social Explorer"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Social Explorer"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Social Explorer"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Wheaton World Wide Moving"
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "Weight Watchers"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Social Explorer"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Gallup"
+         },
+         {
+           "children": [],
+            "size": 50,
+           "name": "Lumesis, Inc."
+         },
+         {
+           "children": [],
+            "size": 50,
+           "name": "Construction Monitor LLC"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "CAN Capital"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Bekins"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Investormill"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "NerdWallet"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Walk Score"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Revaluate"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "CostQuest"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "DataLogix"
+         },
+         {
+           "children": [],
+           "size": 10000,
+           "name": "Factset"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Inrix Traffic"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Politify"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Orlin Research"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Suddath"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Factual"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Xignite"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Weather Underground"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Uber"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "CityScan"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Maponics"
+         },
+         {
+           "children": [],
+           "size": "NA",
+           "used_by": "US Green Data"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Weather Channel"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "realtor.com"
+         },
+         {
+           "children": [],
+           "size": 5000,
+           "name": "Zillow"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Social Health Insights"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "BuildFax"
+         },
+         {
+           "children": [],
+           "size": 1000,
+           "name": "Charles River Associates"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "SnapSense"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Munetrix"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "AreaVibes Inc."
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Expert Health Data Programming, Inc."
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "Nielsen"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Geoscape"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Geolytics"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "OnDeck"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "iFactor Consulting"
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "IBM"
+         },
+         {
+           "children": [],
+           "size": 500,
+           "name": "Atlas Van Lines"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Headlight"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Mapbox"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "WaterSmart Software"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "PYA Analytics"
+         },
+         {
+           "children": [],
+           "size": 10001,
+           "name": "The Vanguard Group"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "SpaceCurve"
+         },
+         {
+           "children": [],
+           "size": 200,
+           "name": "Cloudmade"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Vizzuality"
+         },
+         {
+           "children": [],
+           "size": 50,
+           "name": "Whitby Group"
+         },
+         {
+           "children": [],
+           "size": 10,
+           "name": "Qado Energy, Inc."
+         },
+         {
+           "children": [],
+           "name": "Department of Commerce",
+           "size": 50,
+           "used_by": "Enigma.io"
+         }
+       ]
+      },
+
+
+{
+ "name": "Department of Defense",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Defense",
+       "size": 5000,
+       "used_by": "Informatica"
+     },
+     {
+       "children": [],
+       "name": "Department of Defense",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+
+     {
+       "children": [],
+       "name": "Department of Defense",
+       "size": 50,
+       "used_by": "Apextech LLC"
+     },
+     {
+       "children": [],
+       "name": "Department of Defense",
+       "size": 10,
+       "used_by": "Vital Axiom | Niinja"
+     },
+     {
+       "children": [],
+       "name": "Department of Defense",
+       "size": 50,
+       "used_by": "HealthMap"
+     },
+     {
+       "children": [],
+       "name": "Department of Defense",
+       "size": 10001,
+       "used_by": "Booz Allen Hamilton"
+     },
+     {
+       "children": [],
+       "name": "Department of Defense",
+       "size": 50,
+       "used_by": "Enigma.io"
+     },
+     {
+       "children": [],
+       "name": "Department of Defense",
+       "size": 50,
+       "used_by": "Apextech LLC"
+     },
+     {
+       "children": [],
+       "name": "Department of Defense",
+       "size": 10,
+       "used_by": "VisualDoD, LLC"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Education",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 10,
+       "used_by": "YourMapper"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 1000,
+       "used_by": "College Abacus, an ECMC initiative"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 10,
+       "used_by": "SmartAsset"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": "NA",
+       "used_by": "How's My Offer?"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": "NA",
+       "used_by": "U.S. News Schools"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 1000,
+       "used_by": "College Abacus, an ECMC initiative"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 50,
+       "used_by": "Personal, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 50,
+       "used_by": "Personal, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 5000,
+       "used_by": "College Board"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 200,
+       "used_by": "GreatSchools"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 10,
+       "used_by": "Overture Technologies"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": "NA",
+       "used_by": "U.S. News Schools"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 200,
+       "used_by": "ConnectEDU"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 50,
+       "used_by": "Enigma.io"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 10,
+       "used_by": "Headlight"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 50,
+       "used_by": "Rezolve Group"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 50,
+       "used_by": "SimpleTuition"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 50,
+       "used_by": "Plus-U"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 5000,
+       "used_by": "College Board"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 10,
+       "used_by": "Alltuition"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 50,
+       "used_by": "Unigo LLC"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 5000,
+       "used_by": "The Advisory Board Company"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 50,
+       "used_by": "Junyo"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 10,
+       "used_by": "Ranku"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 200,
+       "used_by": "Cappex"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 200,
+       "used_by": "Peterson's"
+     },
+     {
+       "children": [],
+       "name": "Department of Education",
+       "size": 50,
+       "used_by": "PossibilityU"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Energy",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "SolarList"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "First Fuel Software"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "Recargo"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "Lucid"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "First Fuel Software"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": "NA",
+       "used_by": "US Green Data"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Verdafero"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Verdafero"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "CrowdANALYTIX"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Genability"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "Simple Energy"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "CrowdANALYTIX"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "Lucid"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "Clean Power Finance"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Jurispect"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "Azavea"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Enervee Corporation"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "PEV4me.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "The Schork Report"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "Clean Power Finance"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "Enigma.io"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Xatori"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "WattzOn"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "Tendril"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "Retroficiency"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "Barchart"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "PlotWatt"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "PowerAdvocate"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 50,
+       "used_by": "iFactor Consulting"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Solar Census"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "Noveda Technologies"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Aquicore"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 1000,
+       "used_by": "Next Step Living"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "AtSite"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 200,
+       "used_by": "People Power"
+     },
+     {
+       "children": [],
+       "name": "Department of Energy",
+       "size": 10,
+       "used_by": "Energy Solutions Forum"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Health and Human Services",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "TrialX"
+     },
+
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "TrialX"
+     },
+
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Compendia Bioscience Life Technologies"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "iTriage"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "iTriage"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "HealthPocket, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "YEI Healthcare"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Amida Technology Solutions"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10001,
+       "used_by": "Accenture"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10001,
+       "used_by": "Bing"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "GenoSpace"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "Kyruus"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "SpeSo Health"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Aidin"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "YEI Healthcare"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": "NA",
+       "used_by": "ReciPal"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Aidin"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 1000,
+       "used_by": "Charles River Associates"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "CliniCast"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "YourMapper"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "Ayasdi"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "CliniCast"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "CliniCast"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 5000,
+       "used_by": "Abt Associates"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "HealthPocket, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "iTriage"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "iTriage"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 1000,
+       "used_by": "Healthgrades"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 1000,
+       "used_by": "Healthgrades"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "The DocGraph Journal"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "YEI Healthcare"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "NerdWallet"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10000,
+       "used_by": "IMS Health"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Orlin Research"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Iodine"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Expert Health Data Programming, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "PYA Analytics"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "ClearHealthCosts"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Compendia Bioscience Life Technologies"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Quertle"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Quertle"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Compendia Bioscience Life Technologies"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "iMedicare"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Compendia Bioscience Life Technologies"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Castle Biosciences"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "Ceiba Solutions"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "Ceiba Solutions"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Symcat"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 5000,
+       "used_by": "Chemical Abstracts Service"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "Ceiba Solutions"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "Healthline"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": "NA",
+       "used_by": "Personalis"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 5000,
+       "used_by": "Chemical Abstracts Service"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Sage Bionetworks"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Sophic Systems Alliance"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Sage Bionetworks"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Science Exchange"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Graematter, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": "NA",
+       "used_by": "TrialTrove"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "TrialX"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "PeerJ"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Numedii"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 500,
+       "used_by": "Practice Fusion"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Iodine"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Golden Helix"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "H3 Biomedicine"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Collective IP"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "CliniCast"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "PatientsLikeMe"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": "NA",
+       "used_by": "MedWatcher"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "iTriage"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "YEI Healthcare"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Aureus Sciences (*Now part of Elsevier)"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": "NA",
+       "used_by": "Govzilla, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "YEI Healthcare"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Sophic Systems Alliance"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 5000,
+       "used_by": "WebMD"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 1000,
+       "used_by": "Everyday Health"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "WeMakeItSafer"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": "NA",
+       "used_by": "ReciPal"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "Innography"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Iodine"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Archimedes Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Archimedes Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Archimedes Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "iTriage"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Archimedes Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "iTriage"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Symcat"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "gRadiant Research LLC"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "karmadata"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "HealthMap"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "gRadiant Research LLC"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "gRadiant Research LLC"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 500,
+       "used_by": "Practice Fusion"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "gRadiant Research LLC"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Expert Health Data Programming, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "PYA Analytics"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 1000,
+       "used_by": "Consumer Reports"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10001,
+       "used_by": "Cerner"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 500,
+       "used_by": "Certara"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 500,
+       "used_by": "Evidera"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 1000,
+       "used_by": "Charles River Associates"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Iodine"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Predilytics"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10001,
+       "used_by": "SAS"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Enigma.io"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 5000,
+       "used_by": "Inovalon"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": "NA",
+       "used_by": "U.S. News Schools"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "Vitals"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": "NA",
+       "used_by": "Lilly Open Innovation Drug Discovery"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 200,
+       "used_by": "Vimo"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 500,
+       "used_by": "Impaq International"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 50,
+       "used_by": "Dabo Health"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "mHealthCoach"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 10,
+       "used_by": "Compared Care"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 5000,
+       "used_by": "The Advisory Board Company"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 5000,
+       "used_by": "Oliver Wyman"
+     },
+     {
+       "children": [],
+       "name": "Department of Health and Human Services",
+       "size": 1000,
+       "used_by": "NERA Economic Consulting"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Homeland Security",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 200,
+       "used_by": "Datamyne"
+     },
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 200,
+       "used_by": "Datamyne"
+     },
+
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 200,
+       "used_by": "Datamyne"
+     },
+
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 500,
+       "used_by": "Trulia"
+     },
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 50,
+       "used_by": "Panjiva"
+     },
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 10,
+       "used_by": "Revaluate"
+     },
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 50,
+       "used_by": "IW Financial"
+     },
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 50,
+       "used_by": "Zonability"
+     },
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 10001,
+       "used_by": "Booz Allen Hamilton"
+     },
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 50,
+       "used_by": "Enigma.io"
+     },
+     {
+       "children": [],
+       "name": "Department of Homeland Security",
+       "size": 5000,
+       "used_by": "TransUnion"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Housing and Urban Development",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Housing and Urban Development",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Housing and Urban Development",
+       "size": 10,
+       "used_by": "Revaluate"
+     },
+     {
+       "children": [],
+       "name": "Department of Housing and Urban Development",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Justice",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 200,
+       "used_by": "Oversight Systems"
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 10,
+       "used_by": "SmartAsset"
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 50,
+       "used_by": "CrowdANALYTIX"
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 50,
+       "used_by": "Azavea"
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 10,
+       "used_by": "AreaVibes Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+
+
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 50,
+       "used_by": "Enigma.io"
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 50,
+       "used_by": "PYA Analytics"
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 10,
+       "used_by": "Jurispect"
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 10,
+       "used_by": "Munetrix"
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 10,
+       "used_by": "Graematter, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Justice",
+       "size": 10,
+       "used_by": "Jurispect"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of the Interior",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 50,
+       "used_by": "CrowdANALYTIX"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 50,
+       "used_by": "CrowdANALYTIX"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 10,
+       "used_by": "Rapid Cycle Solutions"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 200,
+       "used_by": "Climate Corporation"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 50,
+       "used_by": "Azavea"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 50,
+       "used_by": "Energy Points, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 50,
+       "used_by": "Azavea"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 50,
+       "used_by": "Mapbox"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 500,
+       "used_by": "Trulia"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": "NA",
+       "used_by": "Earthquake Alert!"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 10000,
+       "used_by": "HERE"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 50,
+       "used_by": "SpaceCurve"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 1000,
+       "used_by": "Wolfram Research"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 10001,
+       "used_by": "Parsons Brinckerhoff"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 50,
+       "used_by": "Azavea"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 50,
+       "used_by": "Enigma.io"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 10,
+       "used_by": "Walk Score"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": 10,
+       "used_by": "Way Better Patents"
+     },
+     {
+       "children": [],
+       "name": "Department of the Interior",
+       "size": "NA",
+       "used_by": "EarthObserver App"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Treasury",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 50,
+       "used_by": "DataMarket"
+     },
+
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10,
+       "used_by": "Overture Technologies"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10,
+       "used_by": "Captricity"
+     },
+
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10,
+       "used_by": "Politify"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 200,
+       "used_by": "GuideStar"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10,
+       "used_by": "NonprofitMetrics"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 50,
+       "used_by": "Center for Responsive Politics"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 500,
+       "used_by": "OnDeck"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 50,
+       "used_by": "PYA Analytics"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 50,
+       "used_by": "Aunt Bertha, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10,
+       "used_by": "Think Computer Corporation"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10,
+       "used_by": "Jurispect"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10000,
+       "used_by": "Berkshire Hathaway"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10001,
+       "used_by": "Charles Schwab Corp."
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10000,
+       "used_by": "Dow Jones & Co."
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 10000,
+       "used_by": "Factset"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 50,
+       "used_by": "Enigma.io"
+     },
+     {
+       "children": [],
+       "name": "Department of the Treasury",
+       "size": 200,
+       "used_by": "Kroll Bond Ratings Agency"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Labor",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 200,
+       "used_by": "Brightscope"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "Lumesis, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Fuzion Apps, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Fuzion Apps, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "Whitby Group"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 5000,
+       "used_by": "Bridgewater"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 5000,
+       "used_by": "JJ Keller"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "Social Explorer"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 500,
+       "used_by": "Redfin"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "HelloWallet"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "PolicyMap"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": "NA",
+       "used_by": "Equal Pay for Women"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10000,
+       "used_by": "Factset"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Pave"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "GetRaised"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "Lumesis, Inc."
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 200,
+       "used_by": "Business and Legal Resources"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Thinknum"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 500,
+       "used_by": "OnDeck"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 5000,
+       "used_by": "Zillow"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Kimono Labs"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Headlight"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "PYA Analytics"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 5000,
+       "used_by": "Abt Associates"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "IVES Group Inc"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 5000,
+       "used_by": "JJ Keller"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10,
+       "used_by": "Cloudspyre"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": "NA",
+       "used_by": "Eat Shop Sleep"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "Enigma.io"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "Geoscape"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 10001,
+       "used_by": "The Vanguard Group"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 50,
+       "used_by": "FutureAdvisor"
+     },
+     {
+       "children": [],
+       "name": "Department of Labor",
+       "size": 200,
+       "used_by": "PayScale, Inc."
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Consumer Financial Protection Bureau",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Consumer Financial Protection Bureau",
+       "size": 50,
+       "used_by": "ideas42"
+     },
+     {
+       "children": [],
+       "name": "Consumer Financial Protection Bureau",
+       "size": 50,
+       "used_by": "BillGuard"
+     },
+     {
+       "children": [],
+       "name": "Consumer Financial Protection Bureau",
+       "size": 10,
+       "used_by": "Jurispect"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Commodity Futures Trading Commission",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Commodity Futures Trading Commission",
+       "size": 10,
+       "used_by": "Jurispect"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of State",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of State",
+       "size": 50,
+       "used_by": "Cambridge Information Group"
+     },
+     {
+       "children": [],
+       "name": "Department of State",
+       "size": 50,
+       "used_by": "CrowdANALYTIX"
+     },
+     {
+       "children": [],
+       "name": "Department of State",
+       "size": 50,
+       "used_by": "Enigma.io"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Transportation",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 200,
+       "used_by": "FlightStats"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 10,
+       "used_by": "YourMapper"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 50,
+       "used_by": "CrowdANALYTIX"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 50,
+       "used_by": "PYA Analytics"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 200,
+       "used_by": "FlightStats"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 50,
+       "used_by": "FlightView"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 10,
+       "used_by": "WeMakeItSafer"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 200,
+       "used_by": "Weather Underground"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 1000,
+       "used_by": "CARFAX"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 50,
+       "used_by": "CrowdANALYTIX"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 200,
+       "used_by": "FlightAware"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 10,
+       "used_by": "Keychain Logistics Corp."
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 10,
+       "used_by": "Jurispect"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 5000,
+       "used_by": "Abt Associates"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 50,
+       "used_by": "SpaceCurve"
+     },
+     {
+       "children": [],
+       "name": "Department of Transportation",
+       "size": 50,
+       "used_by": "Enigma.io"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Veterans Affairs",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Department of Veterans Affairs",
+       "size": 10000,
+       "used_by": "IMS Health"
+     },
+     {
+       "children": [],
+       "name": "Department of Veterans Affairs",
+       "size": 10,
+       "used_by": "Iodine"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Executive Office of the President",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Executive Office of the President",
+       "size": 50,
+       "used_by": "IVES Group Inc"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Federal Communications Commission",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Federal Communications Commission",
+       "size": 10,
+       "used_by": "Jurispect"
+     },
+     {
+       "children": [],
+       "name": "Federal Communications Commission",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Department of Agriculture",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Federal Deposit Insurance Corporation",
+       "size": 10,
+       "used_by": "eInstitutional"
+     },
+     {
+       "children": [],
+       "name": "Federal Deposit Insurance Corporation",
+       "size": 50,
+       "used_by": "NuCivic"
+     },
+     {
+       "children": [],
+       "name": "Federal Deposit Insurance Corporation",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Federal Election Commission",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Federal Election Commission",
+       "size": 50,
+       "used_by": "Azavea"
+     },
+     {
+       "children": [],
+       "name": "Federal Election Commission",
+       "size": 10,
+       "used_by": "Glassy Media"
+     },
+     {
+       "children": [],
+       "name": "Federal Election Commission",
+       "size": 50,
+       "used_by": "PYA Analytics"
+     },
+     {
+       "children": [],
+       "name": "Federal Election Commission",
+       "size": 50,
+       "used_by": "Center for Responsive Politics"
+     },
+     {
+       "children": [],
+       "name": "Federal Election Commission",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Federal Reserve Board",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 5000,
+       "used_by": "Bridgewater"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "Investormill"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 50,
+       "used_by": "CrowdANALYTIX"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "Jurispect"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10000,
+       "used_by": "Factset"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 50,
+       "used_by": "HelloWallet"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10001,
+       "used_by": "The Vanguard Group"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "eInstitutional"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "Thinknum"
+     },
+     {
+       "children": [],
+       "name": "Federal Reserve Board",
+       "size": 10,
+       "used_by": "eInstitutional"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Securities and Exchange Commission",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10,
+       "used_by": "Calcbench, Inc."
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 50,
+       "used_by": "StockSmart"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10000,
+       "used_by": "S&P Capital IQ"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10,
+       "used_by": "eInstitutional"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Xignite"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": "NA",
+       "used_by": "Rank and Filed"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Ez-XBRL"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10,
+       "used_by": "IPHIX"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 50,
+       "used_by": "IVES Group Inc"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Brightscope"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10,
+       "used_by": "Jurispect"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10001,
+       "used_by": "Fujitsu"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "OTC Markets"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10,
+       "used_by": "TagniFi"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10000,
+       "used_by": "Berkshire Hathaway"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10001,
+       "used_by": "BlackRock"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Altova"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 50,
+       "used_by": "Capital Cube"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10001,
+       "used_by": "Charles Schwab Corp."
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10000,
+       "used_by": "Dow Jones & Co."
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 5000,
+       "used_by": "Dun & Bradstreet"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10001,
+       "used_by": "Fidelity Investments"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 50,
+       "used_by": "FutureAdvisor"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10001,
+       "used_by": "Merrill Lynch"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Innovest Systems"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 5000,
+       "used_by": "Morningstar, Inc."
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 50,
+       "used_by": "Marlin & Associates"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 5000,
+       "used_by": "Russell Investments"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": "NA",
+       "used_by": "T. Rowe Price"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 50,
+       "used_by": "SigFig"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10001,
+       "used_by": "Morgan Stanley"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10001,
+       "used_by": "Merrill Corp."
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Rivet Software"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Innography"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Kroll Bond Ratings Agency"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 10,
+       "used_by": "Thinknum"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 50,
+       "used_by": "CB Insights"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Owler"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Trintech"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 1000,
+       "used_by": "WebFilings"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 1000,
+       "used_by": "Relationship Science"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "LOGIXDATA, LLC"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 200,
+       "used_by": "Equilar"
+     },
+     {
+       "children": [],
+       "name": "Securities and Exchange Commission",
+       "size": 50,
+       "used_by": "PYA Analytics"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "U.S. Environmental Protection Agency",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "3 Round Stones, Inc."
+     },
+
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "YourMapper"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "YourMapper"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "YourMapper"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 5000,
+       "used_by": "Abt Associates"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 5000,
+       "used_by": "Abt Associates"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "Energy Points, Inc."
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "ideas42"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "3 Round Stones, Inc."
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "Lucid"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "IW Financial"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "IW Financial"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "Azavea"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": "NA",
+       "used_by": "Biovia"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 200,
+       "used_by": "KLD Research"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "5PSolutions"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "Revaluate"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "Revaluate"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "GoodGuide"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "Jurispect"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "Enervee Corporation"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "WattzOn"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "Ecodesk"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 200,
+       "used_by": "Environmental Data Resources"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 50,
+       "used_by": "Honest Buildings"
+     },
+     {
+       "children": [],
+       "name": "U.S. Environmental Protection Agency",
+       "size": 10,
+       "used_by": "AreaVibes Inc."
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "US Consumer Product Safety Commission",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "US Consumer Product Safety Commission",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "US Consumer Product Safety Commission",
+       "size": 10,
+       "used_by": "WeMakeItSafer"
+     },
+     {
+       "children": [],
+       "name": "US Consumer Product Safety Commission",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "US Equal Employment Opportunity Commission",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "US Equal Employment Opportunity Commission",
+       "size": 200,
+       "used_by": "Business and Legal Resources"
+     },
+     {
+       "children": [],
+       "name": "US Equal Employment Opportunity Commission",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Administrative Office of the United States Courts",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Administrative Office of the United States Courts",
+       "size": 50,
+       "used_by": "Lawdragon"
+     },
+
+     {
+       "children": [],
+       "name": "Administrative Office of the United States Courts",
+       "size": 200,
+       "used_by": "Fastcase"
+     },
+     {
+       "children": [],
+       "name": "Administrative Office of the United States Courts",
+       "size": 10,
+       "used_by": "Think Computer Corporation"
+     },
+     {
+       "children": [],
+       "name": "Administrative Office of the United States Courts",
+       "size": 50,
+       "used_by": "IVES Group Inc"
+     },
+     {
+       "children": [],
+       "name": "Administrative Office of the United States Courts",
+       "size": 10,
+       "used_by": "Patently-O"
+     },
+     {
+       "children": [],
+       "name": "Administrative Office of the United States Courts",
+       "size": 200,
+       "used_by": "Fastcase"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Multiple federal data sources",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "ASC Partners"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "LegiStorm"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "Level One Technologies"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "Think Computer Corporation"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "Think Computer Corporation"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 1000,
+       "used_by": "Palantir Technologies"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "Quandl"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "Way Better Patents"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "POPVOX"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 500,
+       "used_by": "Copyright Clearance Center"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 50,
+       "used_by": "Adaptive"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10001,
+       "used_by": "Fidelity Investments"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 50,
+       "used_by": "IVES Group Inc"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "BaleFire Global"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 50,
+       "used_by": "NuCivic"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10001,
+       "used_by": "Merrill Lynch"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": "NA",
+       "used_by": "T. Rowe Price"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10001,
+       "used_by": "Zurich Insurance (Risk Room)"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10001,
+       "used_by": "McGraw Hill Financial"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 200,
+       "used_by": "Innography"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": "NA",
+       "used_by": "Knowledge Agency"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10001,
+       "used_by": "OptumInsight"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10001,
+       "used_by": "R R Donnelley"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 1000,
+       "used_by": "OSIsoft"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 200,
+       "used_by": "FirstPoint, Inc."
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 200,
+       "used_by": "TopCoder"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 5000,
+       "used_by": "RAND Corporation"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "Civic Impulse LLC"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 50,
+       "used_by": "SmartProcure"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10001,
+       "used_by": "CGI"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 10,
+       "used_by": "3 Round Stones, Inc."
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": 200,
+       "used_by": "PIXIA Corp"
+     },
+     {
+       "children": [],
+       "name": "Multiple federal data sources",
+       "size": "NA",
+       "used_by": "(Leg)Cyte"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Multiple government open data sources",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Berkery Noyes MandASoft"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Compliance and Risks"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Compliance and Risks"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Credit Karma"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 5000,
+       "used_by": "Dun & Bradstreet"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "EMC"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10000,
+       "used_by": "Equifax"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "The Bridgespan Group"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Connotate"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "BaleFire Global"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Granicus"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 1000,
+       "used_by": "Lending Club"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "LexisNexis"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 5000,
+       "used_by": "Moody's"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Experian"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "J.P. Morgan Chase"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 1000,
+       "used_by": "Next Step Living"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "MuckRock.com"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "LegiNation, Inc."
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 500,
+       "used_by": "Outline"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "LegiNation, Inc."
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "R R Donnelley"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "TowerData"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "BaleFire Global"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "BaleFire Global"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Thomson Reuters"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "USSearch"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 500,
+       "used_by": "MicroBilt Corporation"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "TopCoder"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": "NA",
+       "used_by": "Workhands"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 5000,
+       "used_by": "Oliver Wyman"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Development Seed"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Development Seed"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Development Seed"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "VitalChek"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Wolters Kluwer"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Development Seed"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "YEI Healthcare"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Xcential"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "GovTribe"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "GovTribe"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "IPHIX"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "nGAP Incorporated"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": "NA",
+       "used_by": "BizVizz"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "PolicyMap"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Asset4"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Avvo"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Bloomberg"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "nGAP Incorporated"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10000,
+       "used_by": "Acxiom"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10000,
+       "used_by": "Boston Consulting Group"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Adobe Digital Government"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "BetterLesson"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Canon"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Cambridge Semantics"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "AllState Insurance Group"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Allianz"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "DemystData"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Be Informed"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Deloitte"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10000,
+       "used_by": "Epsilon"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Chubb"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Cloudmade"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Ernst & Young LLP"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 5000,
+       "used_by": "Forrester Research"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 500,
+       "used_by": "GitHub"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "InnoCentive"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10000,
+       "used_by": "Google Public Data Explorer"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Liberty Mutual Insurance Cos."
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "McKinsey"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Morgan Stanley"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "PeerJ"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Predilytics"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "InfoCommerce Group"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "ProgrammableWeb"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Quid"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "InCadence"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "PricewaterhouseCoopers (PWC)"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Reed Elsevier"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "SAP"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": "NA",
+       "used_by": "Teradata"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "State Farm Insurance"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 5000,
+       "used_by": "Tableau Software"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": "NA",
+       "used_by": "The Govtech Fund"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Optensity"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "TrustedID"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Yahoo"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Maponics"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10000,
+       "used_by": "Ensco"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 1000,
+       "used_by": "Wolfram Research"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 1000,
+       "used_by": "Smartronix"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Civis Analytics"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Persint"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "KPMG"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Knoema"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "SpotHero.com"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Lenddo"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "xDayta"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": "NA",
+       "used_by": "Marlin Alter and Associates"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Ranku"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Nationwide Mutual Insurance Company"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": "NA",
+       "used_by": "Robinson + Yu"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "USAA Group"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Center for Responsive Politics"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 500,
+       "used_by": "Seabourne"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Sterling Infosystems"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "MetLife"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Microsoft Windows Azure Marketplace"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "SpaceCurve"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Paxata"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "ClearStory Data"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "CB Insights"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Spokeo"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Intelius"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Caspio"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Expert Health Data Programming, Inc."
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 5000,
+       "used_by": "The Advisory Board Company"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Remi"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 1000,
+       "used_by": "Charles River Associates"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 1000,
+       "used_by": "NERA Economic Consulting"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Nielsen"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Standard and Poor's"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 500,
+       "used_by": "Business Monitor International"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Dataweave"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10000,
+       "used_by": "Google Maps"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Scale Unlimited"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "Impact Forecasting (Aon)"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Legal Science Partners"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "Onvia"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Exversion"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": "NA",
+       "used_by": "Amazon Web Services"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Galorath Incorporated"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 5000,
+       "used_by": "Fitch"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 1000,
+       "used_by": "Splunk"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Spikes Cavell Analytic Inc"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Import.io"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "ProPublica"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "MarketSense"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Personal Democracy Media"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "SocialEffort Inc"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "StreamLink Software"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "CoolClimate"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10001,
+       "used_by": "IBM"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 50,
+       "used_by": "Govini"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 200,
+       "used_by": "eScholar LLC."
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10000,
+       "used_by": "Mint"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 500,
+       "used_by": "Atlas Van Lines"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 1000,
+       "used_by": "REI Systems"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Department of Better Technology"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "Estately"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "TuvaLabs"
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "CONNECT-DOT LLC."
+     },
+     {
+       "children": [],
+       "name": "Multiple government open data sources",
+       "size": 10,
+       "used_by": "LOVELAND Technologies"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "US International Trade Commission",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "US International Trade Commission",
+       "size": 50,
+       "used_by": "WattzOn"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "US Agency for International Development",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "US Agency for International Development",
+       "size": 50,
+       "used_by": "Apextech LLC"
+     },
+     {
+       "children": [],
+       "name": "US Agency for International Development",
+       "size": 50,
+       "used_by": "Apextech LLC"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Multiple state data sources",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 1000,
+       "used_by": "CARFAX"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 500,
+       "used_by": "DataLogix"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10,
+       "used_by": "Embark"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 200,
+       "used_by": "Environmental Data Resources"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10,
+       "used_by": "Level One Technologies"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 50,
+       "used_by": "StreetCred Software, Inc"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 500,
+       "used_by": "TrueCar"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 1000,
+       "used_by": "Avalara"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 50,
+       "used_by": "Azavea"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10,
+       "used_by": "Think Computer Corporation"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10001,
+       "used_by": "OptumInsight"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10001,
+       "used_by": "R R Donnelley"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10,
+       "used_by": "Social Health Insights"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 50,
+       "used_by": "TransparaGov"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 200,
+       "used_by": "FirstPoint, Inc."
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 50,
+       "used_by": "StreetCred Software, Inc"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10,
+       "used_by": "Munetrix"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 50,
+       "used_by": "Construction Monitor LLC"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 50,
+       "used_by": "OpenGov"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10001,
+       "used_by": "McGraw Hill Financial"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10,
+       "used_by": "BaleFire Global"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 200,
+       "used_by": "Socrata"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 10001,
+       "used_by": "CGI"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 500,
+       "used_by": "OnDeck"
+     },
+     {
+       "children": [],
+       "name": "Multiple state data sources",
+       "size": 50,
+       "used_by": "SmartProcure"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Federal Housing Finance Agency",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Federal Housing Finance Agency",
+       "size": 10,
+       "used_by": "Thinknum"
+     },
+     {
+       "children": [],
+       "name": "Federal Housing Finance Agency",
+       "size": 5000,
+       "used_by": "Zillow"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "General Services Administration",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "General Services Administration",
+       "size": 10,
+       "used_by": "Way Better Patents"
+     },
+     {
+       "children": [],
+       "name": "General Services Administration",
+       "size": 10,
+       "used_by": "Government Transaction Services"
+     },
+     {
+       "children": [],
+       "name": "General Services Administration",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "National Aeronautics and Space Administration",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "National Aeronautics and Space Administration",
+       "size": 50,
+       "used_by": "Azavea"
+     },
+     {
+       "children": [],
+       "name": "National Aeronautics and Space Administration",
+       "size": 200,
+       "used_by": "Intermap Technologies"
+     },
+     {
+       "children": [],
+       "name": "National Aeronautics and Space Administration",
+       "size": 200,
+       "used_by": "Intermap Technologies"
+     },
+     {
+       "children": [],
+       "name": "National Aeronautics and Space Administration",
+       "size": 10,
+       "used_by": "Marinexplore, Inc."
+     },
+     {
+       "children": [],
+       "name": "National Aeronautics and Space Administration",
+       "size": 200,
+       "used_by": "Climate Corporation"
+     },
+     {
+       "children": [],
+       "name": "National Aeronautics and Space Administration",
+       "size": 50,
+       "used_by": "Mapbox"
+     },
+     {
+       "children": [],
+       "name": "National Aeronautics and Space Administration",
+       "size": 200,
+       "used_by": "FindTheBest.com"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "National Archives and Records Administration",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "National Archives and Records Administration",
+       "size": 5000,
+       "used_by": "Chemical Abstracts Service"
+     },
+     {
+       "children": [],
+       "name": "National Archives and Records Administration",
+       "size": 10,
+       "used_by": "Energy Solutions Forum"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Social Security Administration",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Social Security Administration",
+       "size": 50,
+       "used_by": "Aunt Bertha, Inc."
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Institute of Museum and Library Services",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Institute of Museum and Library Services",
+       "size": 10,
+       "used_by": "YourMapper"
+     },
+     {
+       "children": [],
+       "name": "Institute of Museum and Library Services",
+       "size": 10,
+       "used_by": "YourMapper"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "National Science Foundation",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "National Science Foundation",
+       "size": 10,
+       "used_by": "Way Better Patents"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "Small Business Administration",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "Small Business Administration",
+       "size": 500,
+       "used_by": "OnDeck"
+     }
+ ]
+},
+],
+},
+
+{
+ "name": "U.S. House of Representatives",
+ "children": [
+  {
+   "name": "render",
+   "children": [
+     {
+       "children": [],
+       "name": "U.S. House of Representatives",
+       "size": 10,
+       "used_by": "Civic Impulse LLC"
+     }
+ ]
+},
+],
+},
+
+ ]
+}
