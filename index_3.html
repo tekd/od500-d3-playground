@@ -45,6 +45,7 @@ var arc = d3.svg.arc()
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
 d3.json("js/od500flare.json", function(error, root) {
+console.log(root)
   var g = svg.selectAll("g")
       .data(partition.nodes(root))
     .enter().append("g");
