@@ -1,5 +1,5 @@
 
-<h2>Index 3</h2>
+<h2>Sunburst with Datasets</h2>
 <style>
 
 path {
@@ -17,8 +17,8 @@ text {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var width = 1960,
-    height = 2000,
+var width = 960,
+    height = 1000,
     radius = Math.min(width, height) / 2;
 
 var x = d3.scale.linear()
@@ -44,7 +44,7 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, y(d.y)); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
-d3.json("js/od500flare.json", function(error, root) {
+d3.json("js/sunburst-datasets.json", function(error, root) {
 console.log(root)
   var g = svg.selectAll("g")
       .data(partition.nodes(root))
