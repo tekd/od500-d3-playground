@@ -1,0 +1,36 @@
+#sunburst-clean, #sunburst-clean-datasets {
+    text-align: center;
+  svg {
+    path {
+      stroke: white;
+      fill-rule: evenodd;
+
+    }
+
+    g {
+      fill: $gray-10;
+      &:hover {
+        fill: $purple;
+      }
+    }
+
+
+    text {
+      font-family: Arial, sans-serif;
+      font-size: 12px;
+    }
+
+
+  }
+  .tooltips {
+    padding: 3px 5px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    z-index: 10;
+    opacity: 0
+  }
+  .section_name {
+    font-weight: 700;
+  }
+}

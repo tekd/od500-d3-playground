@@ -1,24 +1,6 @@
-
-<h2>Index 3</h2>
-<style>
-
-path {
-  stroke: #fff;
-  fill-rule: evenodd;
-}
-
-text {
-  font-family: Arial, sans-serif;
-  font-size: 12px;
-}
-
-</style>
-<body>
-<script src="http://d3js.org/d3.v3.min.js"></script>
-<script>
-
-var width = 960,
-    height = 1000,
+$(document).ready(function(){
+  var width = 600,
+    height = 700,
     radius = Math.min(width, height) / 2;
 
 var x = d3.scale.linear()
@@ -29,14 +11,14 @@ var y = d3.scale.linear()
 
 var color = d3.scale.category20c();
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select(".sunburst-no-data-chart").append("svg")
     .attr("width", width)
     .attr("height", height)
   .append("g")
     .attr("transform", "translate(" + width / 2 + "," + (height / 2 + 10) + ")");
 
 var partition = d3.layout.partition()
-    .value(function(d) { return d.size; });
+    .value(function(d) { return 1; });
 
 var arc = d3.svg.arc()
     .startAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x))); })
@@ -44,27 +26,49 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, y(d.y)); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
-d3.json("js/od500flare.json", function(error, root) {
-console.log(root)
+var tooltips = d3.select(".sunburst-no-data-chart")
+  .append("div")
+  .attr("class", "tooltips")
+
+
+
+
+function format_description(d) {
+  console.log(d)
+  var name = d;
+      return  '<span class="section_name">' + name + '</span>';
+}
+
+d3.json("js/sunburst-no-datasets.json", function(error, root) {
   var g = svg.selectAll("g")
       .data(partition.nodes(root))
     .enter().append("g");
 
   var path = g.append("path")
     .attr("d", arc)
-    .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
-    .on("click", click);
+    // .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
+    .on("click", click)
+    .on("mouseover", function(d) {
+        // console.log(d.name)
+       tooltips.html(function() {
+           var name = format_description(d.name);
+           return name;
+      });
+       return tooltips.transition()
+         .duration(50)
+         .style("opacity", 0.9);
+     })
+     .on("mousemove", function(d) {
+       return tooltips
+         .style("top", (d3.event.pageY-10)+"px")
+         .style("left", (d3.event.pageX+10)+"px");
+     })
+     .on("mouseout", function(){return tooltips.style("opacity", 0);});
 
-  var text = g.append("text")
-    .attr("transform", function(d) { return "rotate(" + computeTextRotation(d) + ")"; })
-    .attr("x", function(d) { return y(d.y); })
-    .attr("dx", "6") // margin
-    .attr("dy", ".35em") // vertical-align
-    .text(function(d) { return d.name; });
 
   function click(d) {
     // fade out all text elements
-    text.transition().attr("opacity", 0);
+    // text.transition().attr("opacity", 0);
 
     path.transition()
       .duration(750)
@@ -101,5 +105,4 @@ function arcTween(d) {
 function computeTextRotation(d) {
   return (x(d.x + d.dx / 2) - Math.PI / 2) / Math.PI * 180;
 }
-
-</script>
+})
