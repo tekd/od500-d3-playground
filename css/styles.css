@@ -7217,3 +7217,25 @@ text {
   font-family: Arial, sans-serif;
   font-size: 12px;
   color: red; }
+
+#sunburst-clean, #sunburst-clean-datasets {
+  text-align: center; }
+  #sunburst-clean svg path, #sunburst-clean-datasets svg path {
+    stroke: white;
+    fill-rule: evenodd; }
+  #sunburst-clean svg g, #sunburst-clean-datasets svg g {
+    fill: rgba(0, 0, 0, 0.1); }
+    #sunburst-clean svg g:hover, #sunburst-clean-datasets svg g:hover {
+      fill: #523080; }
+  #sunburst-clean svg text, #sunburst-clean-datasets svg text {
+    font-family: Arial, sans-serif;
+    font-size: 12px; }
+  #sunburst-clean .tooltips, #sunburst-clean-datasets .tooltips {
+    padding: 3px 5px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    z-index: 10;
+    opacity: 0; }
+  #sunburst-clean .section_name, #sunburst-clean-datasets .section_name {
+    font-weight: 700; }
