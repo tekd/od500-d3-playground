@@ -1,21 +1,27 @@
 
 <h2>Sunburst - No Datasets</h2>
 <style>
-
 path {
-  stroke: #fff;
+  stroke: white;
   fill-rule: evenodd;
+
+}
+
+g {
+  fill: gray;
+}
+
+g:hover {
+  fill: purple;
 }
 
 text {
   font-family: Arial, sans-serif;
   font-size: 12px;
-
 }
-
-text:hover {
-  display: inline;
-}
+  .title {
+    font-weight: 700;
+  }
 
 .tooltip {
   background-color: transparent;
@@ -26,12 +32,13 @@ text:hover {
 }
 
 </style>
-<body>
+
+
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var width = 400,
-    height = 500,
+var width = 600,
+    height = 700,
     radius = Math.min(width, height) / 2;
 
 var x = d3.scale.linear()
@@ -49,7 +56,7 @@ var svg = d3.select("body").append("svg")
     .attr("transform", "translate(" + width / 2 + "," + (height / 2 + 10) + ")");
 
 var partition = d3.layout.partition()
-    .value(function(d) { return d.size; });
+    .value(function(d) { return 1; });
 
 var arc = d3.svg.arc()
     .startAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x))); })
@@ -79,7 +86,7 @@ d3.json("js/sunburst-no-datasets.json", function(error, root) {
 
   var path = g.append("path")
     .attr("d", arc)
-    .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
+    // .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
     .on("click", click)
     .on("mouseover", function(d) {
         // console.log(d.name)
