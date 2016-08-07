@@ -10,6 +10,19 @@ path {
 text {
   font-family: Arial, sans-serif;
   font-size: 12px;
+
+}
+
+text:hover {
+  display: inline;
+}
+
+.tooltip {
+  background-color: transparent;
+  padding: 3px 5px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
 }
 
 </style>
@@ -17,8 +30,8 @@ text {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var width = 960,
-    height = 1000,
+var width = 400,
+    height = 500,
     radius = Math.min(width, height) / 2;
 
 var x = d3.scale.linear()
@@ -44,8 +57,22 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, y(d.y)); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
+var tooltip = d3.select("body")
+  .append("div")
+  .attr("class", "tooltip")
+  .style("position", "absolute")
+  .style("z-index", "10")
+  .style("opacity", 0);
+
+
+
+function format_description(d) {
+  console.log(d)
+  var name = d;
+      return  '<b>' + name + '</b>';
+}
+
 d3.json("js/sunburst-no-datasets.json", function(error, root) {
-console.log(root)
   var g = svg.selectAll("g")
       .data(partition.nodes(root))
     .enter().append("g");
@@ -53,18 +80,28 @@ console.log(root)
   var path = g.append("path")
     .attr("d", arc)
     .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
-    .on("click", click);
+    .on("click", click)
+    .on("mouseover", function(d) {
+        // console.log(d.name)
+       tooltip.html(function() {
+           var name = format_description(d.name);
+           return name;
+      });
+       return tooltip.transition()
+         .duration(50)
+         .style("opacity", 0.9);
+     })
+     .on("mousemove", function(d) {
+       return tooltip
+         .style("top", (d3.event.pageY-10)+"px")
+         .style("left", (d3.event.pageX+10)+"px");
+     })
+     .on("mouseout", function(){return tooltip.style("opacity", 0);});
 
-  var text = g.append("text")
-    .attr("transform", function(d) { return "rotate(" + computeTextRotation(d) + ")"; })
-    .attr("x", function(d) { return y(d.y); })
-    .attr("dx", "6") // margin
-    .attr("dy", ".35em") // vertical-align
-    .text(function(d) { return d.name; });
 
   function click(d) {
     // fade out all text elements
-    text.transition().attr("opacity", 0);
+    // text.transition().attr("opacity", 0);
 
     path.transition()
       .duration(750)
@@ -101,5 +138,6 @@ function arcTween(d) {
 function computeTextRotation(d) {
   return (x(d.x + d.dx / 2) - Math.PI / 2) / Math.PI * 180;
 }
+
 
 </script>
