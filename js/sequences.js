@@ -78,7 +78,7 @@ $(document).ready(function() {
             .attr("display", function(d) { return d.depth ? null : "none"; })
             .attr("d", arc)
             .attr("fill-rule", "evenodd")
-            .style("fill", function(d) { return colors[d.name]; })
+            // .style("fill", function(d) { return colors[d.name]; })
             .style("opacity", 1)
             .on("mouseover", mouseover);
 
