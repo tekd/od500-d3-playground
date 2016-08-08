@@ -1,0 +1,26 @@
+{% extends '_base.html' %}
+{% block main %}
+<section id="sequences-chart">
+<div class="b-top-section">
+  <h3>sequences - datasets </h3>
+</div>
+
+<div class="b-page-section">
+  <div class="row">
+    <div class="large-8 large-centered columns">
+      <div id="sequence"></div>
+      <div id="chart">
+        <div id="explanation" style="visibility: hidden;">
+          <span id="percentage"></span><br/>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{% block custom_scripts%}
+    <script type="text/javascript" src="./js/sequences-datasets.js"></script>
+{% endblock%}
+</section>
+{% endblock %}
