@@ -7240,45 +7240,44 @@ text {
   #sunburst-clean .section_name, #sunburst-clean-datasets .section_name {
     font-weight: 700; }
 
-#sequences-chart {
+#sequences-chart #chart path {
+  fill: gray; }
+
+#sequences-chart #chart path:hover {
+  fill: purple; }
+
+#sequences-chart #sidebar {
+  float: right;
+  width: 100px; }
+
+#sequences-chart #sequence {
+  width: 800px;
+  height: 70px;
   text-align: center; }
-  #sequences-chart body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
-    font-weight: 400;
-    background-color: #fff;
-    width: 960px;
-    height: 700px;
-    margin-top: 10px; }
-  #sequences-chart #chart path {
-    fill: gray; }
-  #sequences-chart #chart path:hover {
-    fill: purple; }
-  #sequences-chart #main {
-    float: left;
-    width: 750px; }
-  #sequences-chart #sidebar {
-    float: right;
-    width: 100px; }
-  #sequences-chart #sequence {
-    width: 600px;
-    height: 70px; }
-  #sequences-chart #legend {
-    padding: 10px 0 0 3px; }
-  #sequences-chart #sequence text, #sequences-chart #legend text {
-    font-weight: 600;
-    fill: #fff; }
-  #sequences-chart #chart {
-    position: relative; }
-  #sequences-chart #chart path {
-    stroke: #fff; }
-  #sequences-chart #explanation {
-    position: absolute;
-    top: 260px;
-    left: 305px;
-    width: 140px;
-    text-align: center;
-    color: #666;
-    z-index: -1; }
-  #sequences-chart #percentage {
-    font-size: 16px; }
+
+#sequences-chart #legend {
+  padding: 10px 0 0 3px; }
+
+#sequences-chart #sequence text, #sequences-chart #legend text {
+  font-weight: 300;
+  fill: #fff; }
+
+#sequences-chart #chart {
+  position: relative;
+  text-align: center; }
+
+#sequences-chart #chart path {
+  stroke: #fff; }
+
+#sequences-chart #explanation {
+  position: absolute;
+  top: 280px;
+  left: 400px;
+  width: 140px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.6);
+  z-index: -1; }
+
+#sequences-chart #percentage {
+  font-size: 16px;
+  text-align: center; }

@@ -1,15 +1,4 @@
 #sequences-chart {
-
-    text-align: center;
-  body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
-    font-weight: 400;
-    background-color: #fff;
-    width: 960px;
-    height: 700px;
-    margin-top: 10px;
-  }
   #chart path {
     fill: gray;
   }
@@ -17,8 +6,8 @@
     fill: purple;
   }
   #main {
-    float: left;
-    width: 750px;
+    // float: left;
+    // width: 750px;
   }
 
   #sidebar {
@@ -27,8 +16,9 @@
   }
 
   #sequence {
-    width: 600px;
+    width: 800px;
     height: 70px;
+    text-align: center;
   }
 
   #legend {
@@ -36,12 +26,14 @@
   }
 
   #sequence text, #legend text {
-    font-weight: 600;
+    font-weight: 300;
     fill: #fff;
+    // text-align: left;
   }
 
   #chart {
     position: relative;
+    text-align: center;
   }
 
   #chart path {
@@ -50,16 +42,17 @@
 
   #explanation {
     position: absolute;
-    top: 260px;
-    left: 305px;
+    top: 280px;
+    left: 400px;
     width: 140px;
     text-align: center;
-    color: #666;
+    color: $gray-60;
     z-index: -1;
   }
 
   #percentage {
     font-size: 16px;
+    text-align: center;
   }
 
 }
